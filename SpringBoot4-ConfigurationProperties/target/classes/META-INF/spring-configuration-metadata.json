@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "in.reethu",
+      "type": "in.reethu.comp.Company",
+      "sourceType": "in.reethu.comp.Company"
+    }
+  ],
+  "properties": [
+    {
+      "name": "in.reethu.loc",
+      "type": "java.lang.String",
+      "sourceType": "in.reethu.comp.Company"
+    },
+    {
+      "name": "in.reethu.name",
+      "type": "java.lang.String",
+      "sourceType": "in.reethu.comp.Company"
+    },
+    {
+      "name": "in.reethu.type",
+      "type": "java.lang.String",
+      "sourceType": "in.reethu.comp.Company"
+    }
+  ],
+  "hints": []
+}
