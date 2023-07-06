@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "in.reethu",
+      "type": "in.reethu.comp.Employee",
+      "sourceType": "in.reethu.comp.Employee"
+    }
+  ],
+  "properties": [
+    {
+      "name": "in.reethu.company",
+      "type": "in.reethu.comp.Company",
+      "sourceType": "in.reethu.comp.Employee"
+    },
+    {
+      "name": "in.reethu.id",
+      "type": "java.lang.Long",
+      "sourceType": "in.reethu.comp.Employee"
+    },
+    {
+      "name": "in.reethu.id-details",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "in.reethu.comp.Employee"
+    },
+    {
+      "name": "in.reethu.mobile-nos",
+      "type": "java.util.Set<java.lang.String>",
+      "sourceType": "in.reethu.comp.Employee"
+    },
+    {
+      "name": "in.reethu.name",
+      "type": "java.lang.String",
+      "sourceType": "in.reethu.comp.Employee"
+    },
+    {
+      "name": "in.reethu.project-names",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "in.reethu.comp.Employee"
+    },
+    {
+      "name": "in.reethu.skill-set",
+      "type": "java.lang.String[]",
+      "sourceType": "in.reethu.comp.Employee"
+    }
+  ],
+  "hints": []
+}

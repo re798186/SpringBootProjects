@@ -1,0 +1,24 @@
+in:
+  reethu:
+    company:
+      loc: blr
+      name: wipro
+      type: IT
+    id: 1
+    id-details:
+      adhar: AA203989
+      emiratesId: ASS5454
+      pan: DD546848
+    mobile-nos:
+    - 222222
+    - 222223
+    - 222224
+    - 222225
+    name: reethu
+    project-names:
+    - Base
+    - Recon
+    - Deltaverge
+    skill-set:
+    - java
+    - Spring
